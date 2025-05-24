@@ -1,14 +1,13 @@
 # ¡Hola! Soy Claudio
 
+![Header de Claudio Salazar](https://claudiosalazar.cl/images/header-github.webp)
+
 Soy UI Developer con más de 15 años de experiencia diseñando y desarrollando interfaces web centradas en el usuario. Trabajo con React, Next.js, HTML, CSS y Figma.
 
-🔭 Actualmente estoy trabajando como freelance para proyectos de distintos sectores.  
-🌱 Siempre aprendiendo sobre nuevas herramientas de diseño y desarrollo frontend.  
-📫 Puedes contactarme en: contacto@claudiosalazar.cl  
-🌐 Más sobre mí en [claudiosalazar.cl](https://claudiosalazar.cl)
-
-
-![Header de Claudio Salazar](https://claudiosalazar.cl/images/header-github.webp)
+- Actualmente estoy trabajando como freelance para proyectos de distintos sectores.  
+- Siempre aprendiendo sobre nuevas herramientas de diseño y desarrollo frontend.  
+- Puedes contactarme en: contacto@claudiosalazar.cl  
+- Más sobre mí en [claudiosalazar.cl](https://claudiosalazar.cl)
 
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
