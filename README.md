@@ -1,4 +1,4 @@
-![Header de Claudio Salazar]([https://claudiosalazar.cl/images/header-github.webp](https://claudiosalazar.cl/images/header-github.jpg))
+![Header de Claudio Salazar](https://claudiosalazar.cl/images/header-github.jpg)
 
 Soy UI Developer con más de 15 años de experiencia diseñando y desarrollando interfaces web centradas en el usuario. Trabajo con React, Next.js, HTML, CSS y Figma.
 
